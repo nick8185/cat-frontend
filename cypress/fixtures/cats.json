@@ -1,0 +1,72 @@
+[
+  {
+    "cat_name": "Kurilian",
+    "child_friendly": 5,
+    "dog_friendly": 5,
+    "stranger_friendly": 5,
+    "total_score": 15,
+    "wiki_link": "https://en.wikipedia.org/wiki/Kurilian_Bobtail",
+    "image": {
+      "id": "NZpO4pU56M",
+      "width": 750,
+      "height": 750,
+      "url": "https://cdn2.thecatapi.com/images/NZpO4pU56M.jpg"
+    }
+  },
+  {
+    "cat_name": "Balinese",
+    "child_friendly": 4,
+    "dog_friendly": 5,
+    "stranger_friendly": 5,
+    "total_score": 14,
+    "wiki_link": "https://en.wikipedia.org/wiki/Balinese_(cat)",
+    "image": {
+      "id": "13MkvUreZ",
+      "width": 1600,
+      "height": 1000,
+      "url": "https://cdn2.thecatapi.com/images/13MkvUreZ.jpg"
+    }
+  },
+  {
+    "cat_name": "Burmese",
+    "child_friendly": 4,
+    "dog_friendly": 5,
+    "stranger_friendly": 5,
+    "total_score": 14,
+    "wiki_link": "https://en.wikipedia.org/wiki/Burmese_(cat)",
+    "image": {
+      "id": "4lXnnfxac",
+      "width": 1250,
+      "height": 650,
+      "url": "https://cdn2.thecatapi.com/images/4lXnnfxac.jpg"
+    }
+  },
+  {
+    "cat_name": "Chartreux",
+    "child_friendly": 4,
+    "dog_friendly": 5,
+    "stranger_friendly": 5,
+    "total_score": 14,
+    "wiki_link": "https://en.wikipedia.org/wiki/Chartreux",
+    "image": {
+      "id": "j6oFGLpRG",
+      "width": 768,
+      "height": 1024,
+      "url": "https://cdn2.thecatapi.com/images/j6oFGLpRG.jpg"
+    }
+  },
+  {
+    "cat_name": "Devon Rex",
+    "child_friendly": 4,
+    "dog_friendly": 5,
+    "stranger_friendly": 5,
+    "total_score": 14,
+    "wiki_link": "https://en.wikipedia.org/wiki/Devon_Rex",
+    "image": {
+      "id": "4RzEwvyzz",
+      "width": 1729,
+      "height": 1160,
+      "url": "https://cdn2.thecatapi.com/images/4RzEwvyzz.png"
+    }
+  }
+]

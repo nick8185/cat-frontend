@@ -1,8 +1,10 @@
-import { render, screen } from '@testing-library/react';
-import App from './App';
+/* eslint-disable no-undef */
+import { render, screen } from '@testing-library/react'
+import App from './App'
+import React from 'react'
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
-});
+test('renders title', () => {
+  render(<App />)
+  const linkElement = screen.getByText(/The top 5 most friendly cats/i)
+  expect(linkElement).toBeInTheDocument()
+})
