@@ -1,5 +1,5 @@
-/* eslint react/prop-types: 0 */
 import * as React from 'react'
+import PropTypes from 'prop-types'
 
 export const CatCard = ({ cat }) => (
 
@@ -27,3 +27,17 @@ export const CatCard = ({ cat }) => (
   </div>
 
 )
+
+CatCard.propTypes = {
+  cat: PropTypes.shape({
+    cat_name: PropTypes.string,
+    child_friendly: PropTypes.number,
+    dog_friendly: PropTypes.number,
+    stranger_friendly: PropTypes.number,
+    total_score: PropTypes.number,
+    wiki_link: PropTypes.string,
+    image: PropTypes.any
+  })
+}
+
+export default CatCard
